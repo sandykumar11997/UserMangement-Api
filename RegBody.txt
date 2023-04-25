@@ -1,0 +1,11 @@
+HI {name}</br>
+
+Your Registration is Success</br>
+
+Your temp Password for activation is below </br>
+
+temp pwd : {password} </br>
+
+<a href="{url}"> click here to activate account </a> </br>
+
+thanks

@@ -1,0 +1,9 @@
+HI {name}</br>
+
+Your Password Recovery is Success</br>
+
+your New Password : {password} </br>
+
+<a href="{url}"> click here to activate account </a> </br>
+
+thanks
